@@ -32,6 +32,11 @@ TP23 | -
 
 ## PAW3399
 
+```
+10 MHz SPI
+SPI MODE 3
+```
+
 pin | Funcion
 :---: | :---:
 1 | NC
@@ -39,7 +44,7 @@ pin | Funcion
 3 | GND
 4 | VDD
 5 | VDDPIX
-6 | RESET?
+6 | ? IO?
 7 | VDDIO
 8 | GND
 9 | MOTION
@@ -47,7 +52,7 @@ pin | Funcion
 11 | MOSI
 12 | MISO
 13 | NCS
-14 | FRAME?
+14 | RESET
 15 | LED_AN
 16 | NC
 
