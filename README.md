@@ -44,7 +44,7 @@ pin | Funcion
 3 | GND
 4 | VDD
 5 | VDDPIX
-6 | ? IO?
+6 | GPO
 7 | VDDIO
 8 | GND
 9 | MOTION
