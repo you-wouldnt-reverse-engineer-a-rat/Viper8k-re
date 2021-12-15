@@ -53,7 +53,7 @@ pin | Funcion
 12 | MISO
 13 | NCS
 14 | RESET
-15 | LED_AN
+15 | LED_P
 16 | NC
 
 
